@@ -104,17 +104,13 @@ pip install -r requirements.txt    # 如果有文件
 pip install requests python-dotenv pandas
 ```
 
-4. 运行主交易脚本（示例）：
+4. 运行主脚本（示例）：
 ```bash
-python polymarkettrader.py
+python actuator.py
 ```
 
-5. 其他脚本：
-- 保存行情/采集（手动或定时）：python datasaver.py
-- 同步余额（定时任务）：python balancesync.py
-- 执行下单（通常由策略/主程序调用）：python actuator.py
-- 邮件通知测试：python mailsender.py
-- Windows 快速运行：双击或在命令行运行 run.bat
+5.Windows 快速运行（支持代理 需要配置.env中的LOCAL_HTTPS_PROXY）：
+- 双击或在命令行运行 run.bat
 
 ---
 
