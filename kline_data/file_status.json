@@ -1,0 +1,107 @@
+{
+  "BTCUSDC_2025-12-07": {
+    "symbol": "BTCUSDC",
+    "date": "2025-12-07",
+    "created_at": "2025-12-07T15:48:03.874261",
+    "last_updated": "2025-12-07T16:29:59.518634",
+    "line_count": 43
+  },
+  "XRPUSDC_2025-12-07": {
+    "symbol": "XRPUSDC",
+    "date": "2025-12-07",
+    "created_at": "2025-12-07T15:48:03.876614",
+    "last_updated": "2025-12-07T16:43:28.244238",
+    "line_count": 21
+  },
+  "XRPBTC_2025-12-07": {
+    "symbol": "XRPBTC",
+    "date": "2025-12-07",
+    "created_at": "2025-12-07T15:48:25.980288",
+    "last_updated": "2025-12-07T16:43:28.244818",
+    "line_count": 11
+  },
+  "BTCUSDC_2025-12-08": {
+    "symbol": "BTCUSDC",
+    "date": "2025-12-08",
+    "created_at": "2025-12-08T21:15:00.167753",
+    "last_updated": "2025-12-08T22:45:00.186771",
+    "line_count": 7
+  },
+  "XRPUSDC_2025-12-08": {
+    "symbol": "XRPUSDC",
+    "date": "2025-12-08",
+    "created_at": "2025-12-08T21:30:00.186596",
+    "last_updated": "2025-12-08T22:46:04.924913",
+    "line_count": 7
+  },
+  "XRPBTC_2025-12-08": {
+    "symbol": "XRPBTC",
+    "date": "2025-12-08",
+    "created_at": "2025-12-08T21:30:00.187236",
+    "last_updated": "2025-12-08T22:46:04.925561",
+    "line_count": 7
+  },
+  "BTCUSDC_2025-12-10": {
+    "symbol": "BTCUSDC",
+    "date": "2025-12-10",
+    "created_at": "2025-12-10T17:45:00.159808",
+    "last_updated": "2025-12-10T19:15:00.140200",
+    "line_count": 7
+  },
+  "XRPUSDC_2025-12-10": {
+    "symbol": "XRPUSDC",
+    "date": "2025-12-10",
+    "created_at": "2025-12-10T18:00:00.177358",
+    "last_updated": "2025-12-10T19:17:20.881337",
+    "line_count": 7
+  },
+  "XRPBTC_2025-12-10": {
+    "symbol": "XRPBTC",
+    "date": "2025-12-10",
+    "created_at": "2025-12-10T18:00:00.178040",
+    "last_updated": "2025-12-10T19:17:20.882171",
+    "line_count": 7
+  },
+  "BTCUSDC_2025-12-11": {
+    "symbol": "BTCUSDC",
+    "date": "2025-12-11",
+    "created_at": "2025-12-11T01:00:00.161583",
+    "last_updated": "2025-12-11T01:15:00.131574",
+    "line_count": 2
+  },
+  "XRPUSDC_2025-12-11": {
+    "symbol": "XRPUSDC",
+    "date": "2025-12-11",
+    "created_at": "2025-12-11T01:15:00.132359",
+    "last_updated": "2025-12-11T01:29:56.880328",
+    "line_count": 2
+  },
+  "XRPBTC_2025-12-11": {
+    "symbol": "XRPBTC",
+    "date": "2025-12-11",
+    "created_at": "2025-12-11T01:15:00.133223",
+    "last_updated": "2025-12-11T01:29:56.881150",
+    "line_count": 2
+  },
+  "BTCUSDC_2025-12-16": {
+    "symbol": "BTCUSDC",
+    "date": "2025-12-16",
+    "created_at": "2025-12-16T16:30:00.096415",
+    "last_updated": "2025-12-16T21:00:00.176091",
+    "line_count": 19
+  },
+  "XRPUSDC_2025-12-16": {
+    "symbol": "XRPUSDC",
+    "date": "2025-12-16",
+    "created_at": "2025-12-16T16:45:00.088262",
+    "last_updated": "2025-12-16T21:08:50.946394",
+    "line_count": 19
+  },
+  "XRPBTC_2025-12-16": {
+    "symbol": "XRPBTC",
+    "date": "2025-12-16",
+    "created_at": "2025-12-16T16:45:00.088954",
+    "last_updated": "2025-12-16T21:08:50.947040",
+    "line_count": 19
+  }
+}
